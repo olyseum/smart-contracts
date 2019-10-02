@@ -1,0 +1,15 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "Olyseum Smart Contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.3.0",
+    "@openzeppelin/upgrades": "2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olyseum/smart-contracts.git"
+  },
+  "author": "Olyseum",
+  "license": "LGPL-3.0"
+}
