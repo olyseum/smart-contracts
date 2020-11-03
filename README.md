@@ -2,7 +2,7 @@
 
 [Olyseum](https://corporate.olyseum.com/) is a blockchain-based social platform that provides stars a way to monetize their activity and to reward their fansbase's engagement, allowing fans access exclusive experiences in a social-marketplace. Olyseum uses online advertising, as well as the sale of exclusive experiences, products and services, to allow stars earn part of the revenue they generate thanks to every follower both in Olyseum and in the rest of their current social networks, and reward their best fans with a token that provides access to them, improving the quality of the fan-star relationship.
 
-> NOTE: For more details, please read our white paper [here](https://corporate.olyseum.com/static/Olyseum-WhitePaper_2.3_Short-84aa6262cc41ca700fadb8318cadd8b3.pdf).
+> NOTE: For more details, please read our white paper [here](https://doc.olyseum.com/Olyseum-WhitePaper_2.3_Short-84aa6262cc41ca700fadb8318cadd8b3.pdf).
 
 ## Getting Started
 
@@ -24,4 +24,4 @@ This repository contains the code necessary to create the [OLY token](https://et
 
 ## Audit
 
-Contracts were audited by [Coinspect](https://coinspect.com/). The report can be found [here](https://corporate.olyseum.com/static/OlyToken_Smart_Contract_Auditv0923-998d8fb68144ee44dda722703fe53ae4.pdf).
+Contracts were audited by [Coinspect](https://coinspect.com/). The report can be found [here](https://doc.olyseum.com/OlyToken_Smart_Contract_Auditv0923-998d8fb68144ee44dda722703fe53ae4.pdf).
