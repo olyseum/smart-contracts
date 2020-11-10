@@ -2,7 +2,7 @@
 
 [Olyseum](https://corporate.olyseum.com/) is a blockchain-based social platform that provides stars a way to monetize their activity and to reward their fansbase's engagement, allowing fans access exclusive experiences in a social-marketplace. Olyseum uses online advertising, as well as the sale of exclusive experiences, products and services, to allow stars earn part of the revenue they generate thanks to every follower both in Olyseum and in the rest of their current social networks, and reward their best fans with a token that provides access to them, improving the quality of the fan-star relationship.
 
-> NOTE: For more details, please read our white paper [here](https://doc.olyseum.com/Olyseum-WhitePaper_2.3_Short-84aa6262cc41ca700fadb8318cadd8b3.pdf).
+> NOTE: For more details, please read our whitepaper [here](https://doc.olyseum.com/Olyseum-wpaper_3.1.pdf).
 
 ## Getting Started
 
